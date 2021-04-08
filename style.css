@@ -1,0 +1,43 @@
+.cont{
+    display: flex;
+}
+.rex{
+    display: flex;
+}
+.cont-2{
+    float: right;
+}
+.download{
+    display: flex;
+}
+.list h5{
+    font-size: large;
+}
+.social-media a i{
+    font-size: 25px;
+    padding: 4px 4px;
+  color: rgba(206, 55, 88, 0.7);
+}
+.list-item li a{
+    text-decoration: none;
+    color: black;
+   
+}
+.list-item li a:hover{
+    color: crimson;
+}
+.payment{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    
+}
+.payment-img{
+    margin: 0 8px;
+}
+.copyright{
+    align-items: center;
+    justify-content: center;
+    display: flex;
+    background: rgb(173, 166, 166);
+}
